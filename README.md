@@ -1,33 +1,37 @@
-## Eae Death Wing aqui
+# Eae! Eu sou o Wallysson Costa (DeathWingg) 👋
 
+🎓 Técnico em Informática | 🌱 Iniciando na área de tecnologia
+💡 Focado em aprender e construir meus primeiros projetos
 
-<div>
-  <a href="https://github.com/DeathWingg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeathWingg&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathWingg&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wally-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Wally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wally-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wally-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Wally-Gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/758139743594086411/888505533412298772/ezgif-2-08ec23175916.gif">
-</div>
+---
 
-  ##
-<div>
-  <a href="https://www.instagram.com/w_costa__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/wallysson.costa.52" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</div>  
+### 🛠️ O que estou estudando
 
-![Snake animation](https://github.com/DeathWingg/DeathWingg/blob/output/github-contribution-grid-snake.svg)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
+---
+
+### 📊 Minhas estatísticas
+
+<!-- Gráfico de Atividade -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeathWingg&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<!-- Cobrinha Animada -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wallysson/Wallysson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wallysson/Wallysson/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Wallysson/Wallysson/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeathWingg/DeathWingg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeathWingg/DeathWingg/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha de contribuições" src="https://raw.githubusercontent.com/DeathWingg/DeathWingg/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Wallysson&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+---
+
+### 📫 Onde me encontrar
+
+<a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://facebook.com/SEU_FACEBOOK" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<!-- Recomendo muito criar e adicionar seu LinkedIn abaixo: -->
+<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
