@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Wallysson Costa (DeathWingg) 👋</h1>
+<h1 align="center">Eae! Eu sou o Wallysson Costa (DeathWingg) 👋</h1>
 <h3 align="center">Técnico em Informática | Iniciando na área de Tecnologia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Estudando+e+construindo+projetos;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Estudando+e+construindo+projetos;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,12 +22,6 @@
 ### 📊 Minhas Contribuições
 
 <div align="center">
-  <!-- Gráfico de Atividade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeathWingg&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-  
-  <br><br>
-  
-  <!-- Cobrinha Animada -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeathWingg/DeathWingg/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeathWingg/DeathWingg/output/github-contribution-grid-snake.svg">
@@ -46,10 +40,4 @@
   <a href="https://facebook.com/SEU_FACEBOOK_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <!-- Se criar um LinkedIn, descomente e coloque o link abaixo -->
-  <!--
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
 </div>
